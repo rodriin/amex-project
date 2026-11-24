@@ -9,3 +9,19 @@ dist/
 
 # Editor / IDE settings (personal, not project config)
 .idea/
+.vscode/
+
+# Test coverage reports
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# Caches
+.eslintcache
+*.tsbuildinfo
